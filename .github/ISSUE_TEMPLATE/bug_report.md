@@ -27,13 +27,14 @@ If applicable, add screenshots.
 ### LOGS
 > [!WARNING]  
 > Please don't directly attach your user logs to this issue in order to de-risk sharing of any user information publicly.
-> That said, logs will help us greatly in triaging your issue. If you would like to share your Thorg logs with us, follow these steps TODO: INSERT LINK TO GUIDE.
+> That said, logs will help us greatly in triaging your issue. If you would like to share your Thorg logs with us.
 
-I was able to follow the steps above to email logs to Thorg TODO: INSERT EMAIL ADDRESS, and included the Git issue ID or title in the email subject: [Yes/no]
+Follow [How to Submit Logs](thorg://notes/2sn38ayspyg7wa9xgc58k0i) for instructions on log gathering and submission.
+
+I was able to email logs to contact@thorg.app, and included the Git issue ID in the subject: [Yes/no]
 
 ### Environment
-- OS: [e.g. macOS 13, Windows 11, Ubuntu 22.04]
-
-- VS Code Version details (copy contents from Code >> About Visual Studio Code): 
-
+- OS: [e.g. macOS 13, Ubuntu 22.04]
 - Thorg version: [e.g. v1.0.7]
+- VS Code Version details (In VSCode [Open Command Palette](https://notes.thorg.app/notes/i2d0vfbid60oitbfc6hbxmg)/`Show System Info`):
+- 
