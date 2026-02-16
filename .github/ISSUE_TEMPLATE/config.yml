@@ -1,12 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Official documentation
-    url: http://glassthought.com/
-    about: Check our documentation for guides and gotchas.
+  - name: Submit issues at Thorg Root Public
+    url: https://github.com/Thorg-App/thorg-root-public/issues
+    about: This repository is deprecated. Please submit all issues (bugs, feature requests, questions) at the new centralized repository.
   - name: Thorg Discord community
-    url: https://discord.gg/YGthSxfu 
+    url: https://discord.gg/YGthSxfu
     about: Join our discord to connect with users and devs, and hear about the latest updates.
-
-
-
-    
